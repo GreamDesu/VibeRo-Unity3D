@@ -36,8 +36,3 @@ Enjoy
 * **Amir Yelenov** - *Unity project* - [GreamDesu](https://github.com/GreamDesu)
 * **Adilzhan Adilkhanov** - *Python script* - [adilzhaniwe](https://github.com/Adilzhaniwe)
 
-
-
-## Acknowledgments
-
-* Zhanat Kappasov, our project lead
