@@ -12,9 +12,6 @@ These instructions will get you a copy of the project up and running on your loc
 - VibeRo setup
 - Beaglebone Black
 
-```
-Give examples
-```
 
 ### Installing and deployment
 
@@ -32,6 +29,7 @@ tcpListener = new TcpListener (IPAddress.Parse ("192.168.7.1"), 7000)
 ```
 Run project in Unity and run Python script on beaglebone.
 
+Enjoy
 
 ## Code Authors
 
