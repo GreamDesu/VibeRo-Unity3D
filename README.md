@@ -1,4 +1,4 @@
-# VibeRo-Unity3D
+# VibeRo: Vibrotactile Stiffness Perception Interface for Virtual Reality
 
 Unity project which uses Beaglebone and VibeRo setup to simulate soft object in VR.
 
